@@ -1,0 +1,10 @@
+Taking ownership of Windows.ApplicationModel.Store.dll 
+
+SUCCESS: The file (or folder): "C:\Windows\System32\Windows.ApplicationModel.Store.dll" now owned by user "WORKGROUP\DESKTOP-6R75O6C$".
+Granting administrators full access to Windows.ApplicationModel.Store.dll 
+processed file: C:\Windows\System32\Windows.ApplicationModel.Store.dll
+Successfully processed 1 files; Failed processing 0 files
+Deleting Windows.ApplicationModel.Store.dll from C:\Windows\System32 
+Copying Windows.ApplicationModel.Store.dll to C:\Windows\System32 
+        1 file(s) copied.
+Windows.ApplicationModel.Store.dll replaced successfully in C:\Windows\System32. 

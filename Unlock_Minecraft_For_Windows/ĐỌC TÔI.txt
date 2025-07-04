@@ -1,0 +1,3 @@
+Chọn folder "Unlock", chọn 64-bit và chạy "Remove.bat". Restart lại máy.
+Trao niềm tin nhận niềm vui.
+(KHÔNG SỜ VÀO MẤY FILE KHÁC)

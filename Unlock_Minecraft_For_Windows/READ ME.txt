@@ -1,0 +1,2 @@
+Go to "Unlock" folder and choose 64-bit. Run "Remove.bat". Restart your laptop/pc.
+(DO NOT TOUCH THE OTHER FILES)
